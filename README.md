@@ -12,3 +12,5 @@ The screenshot shows the simulation of the 4 to 1 mux design.
 <img src='mux_4_to_1_SC.jpg'>
 
 
+**Test bench** (mux_4_to_1_TB.v) has been provided to simulate and verify the design.
+
