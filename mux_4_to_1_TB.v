@@ -46,3 +46,4 @@ module mux_4_to_1_test;
 
   initial #340 $finish; // The test will operate for a total interval of 340 nanoseconds
 endmodule
+
