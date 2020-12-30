@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 
 
-module mux_four_to_one
+module mux_4_to_1
 (
   input [3:0] DIN,
   input [1:0] SEL,
